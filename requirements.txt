@@ -1,5 +1,5 @@
 mpmath==0.19
-numpy==1.13.1
+numpy==1.21.0
 Pint==0.8.1
 pybind11==2.2.0
 ruamel.yaml==0.15.33
